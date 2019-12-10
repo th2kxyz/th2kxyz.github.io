@@ -1,0 +1,117 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	color: gold;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header {
+font-family: poppins, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+h1 {
+	float: left;
+	margin-left: 50px;
+}
+
+img {
+	float: left;
+	height: 100px;	
+}
+.workimg {
+	float: center;
+	height: 700px;
+	padding-left: 150px;
+	padding-top: 10px;
+	
+}
+
+.workimg2 {
+	float: center;
+	background-color: blue;
+	max-width: 100%;
+}
+.header {
+	background-color: blue;
+	height: 100px;
+	
+}
+
+.body {
+	align-content: center;
+	width: 1000px;
+	color: black;
+}
+
+.body2{
+	width: 80%;
+	height: 400px;
+	color: black;
+	font-size: 32px;
+	display: block;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+}
+.bio {
+	width: 600px;
+	height: 800px;
+	font-size: 72px;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+.socialmedia {
+	display: block;
+	float: left;
+	width: 80%;
+	height: 200px;
+	background-color: rebeccapurple;
+}
+.smimages {
+	float: none;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: aqua;
+	height: 200px;
+}
+
+.menu {
+font-family: poppins, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+	
+	background-color: pink;
+	width: 200px;
+	height: 2000px;
+	float: left;
+	color: gold;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+a {
+	text-decoration: none;
+	color: gold;
+}
+a:active {
+	color: white;
+}
